@@ -26,6 +26,12 @@ body.pink {
   --primary-color-dark: #A61E4D;
 }
 
+body.orange {
+  --bg-color: #ffe2f2;
+  --text-color: #fd8700;
+  --primary-color: #913a00;
+  --primary-color-dark: #fd8700;
+}
 
 body{
   background: var(--bg-color);
