@@ -26,12 +26,6 @@ body.pink {
   --primary-color-dark: #A61E4D;
 }
 
-body.green {
-  --bg-color: #000000;
-  --text-color: #61d633;
-  --primary-color: #27660e;
-  --primary-color-dark: #61d633;
-}
 
 body{
   background: var(--bg-color);
