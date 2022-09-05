@@ -26,11 +26,25 @@ body.pink {
   --primary-color-dark: #A61E4D;
 }
 
+body.green {
+  --bg-color: #000000;
+  --text-color: #61d633;
+  --primary-color: #27660e;
+  --primary-color-dark: #61d633;
+}
+
 body.orange {
   --bg-color: #ffe2f2;
   --text-color: #fd8700;
   --primary-color: #913a00;
   --primary-color-dark: #fd8700;
+}
+
+body.purple {
+  --bg-color: #FFF0F6;
+  --text-color: #7a4afd;
+  --primary-color: #22016e;
+  --primary-color-dark: #7a4afd;
 }
 
 body{
